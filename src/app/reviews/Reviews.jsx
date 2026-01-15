@@ -66,7 +66,7 @@ return (
             </div>
           </div>
           <div className={styles["reviews__btn--wrapper"]}>
-            <button className={styles["btn home__cta--btn"]}>Login</button>
+            <button className="btn home__cta--btn">Login</button>
           </div>
         </div>
       </div>
